@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alexander\\Desktop\\Program\\Repos\\fullStackPractice\\backend\\TheWatterProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{033FD3D4-E08B-49D9-BEF5-2BCEEEC059EB}|TheWatterProject\\TheWatterProject.csproj|c:\\users\\alexander\\desktop\\program\\repos\\fullstackpractice\\backend\\thewatterproject\\thewatterproject\\models\\waterprojectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{033FD3D4-E08B-49D9-BEF5-2BCEEEC059EB}|TheWatterProject\\TheWatterProject.csproj|solutionrelative:thewatterproject\\models\\waterprojectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{033FD3D4-E08B-49D9-BEF5-2BCEEEC059EB}|TheWatterProject\\TheWatterProject.csproj|c:\\users\\alexander\\desktop\\program\\repos\\fullstackpractice\\backend\\thewatterproject\\thewatterproject\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{033FD3D4-E08B-49D9-BEF5-2BCEEEC059EB}|TheWatterProject\\TheWatterProject.csproj|solutionrelative:thewatterproject\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{033FD3D4-E08B-49D9-BEF5-2BCEEEC059EB}|TheWatterProject\\TheWatterProject.csproj|c:\\users\\alexander\\desktop\\program\\repos\\fullstackpractice\\backend\\thewatterproject\\thewatterproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{033FD3D4-E08B-49D9-BEF5-2BCEEEC059EB}|TheWatterProject\\TheWatterProject.csproj|solutionrelative:thewatterproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{033FD3D4-E08B-49D9-BEF5-2BCEEEC059EB}|TheWatterProject\\TheWatterProject.csproj|c:\\users\\alexander\\desktop\\program\\repos\\fullstackpractice\\backend\\thewatterproject\\thewatterproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{033FD3D4-E08B-49D9-BEF5-2BCEEEC059EB}|TheWatterProject\\TheWatterProject.csproj|solutionrelative:thewatterproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{033FD3D4-E08B-49D9-BEF5-2BCEEEC059EB}|TheWatterProject\\TheWatterProject.csproj|c:\\users\\alexander\\desktop\\program\\repos\\fullstackpractice\\backend\\thewatterproject\\thewatterproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{033FD3D4-E08B-49D9-BEF5-2BCEEEC059EB}|TheWatterProject\\TheWatterProject.csproj|solutionrelative:thewatterproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\Desktop\\Program\\Repos\\fullStackPractice\\backend\\TheWatterProject\\TheWatterProject\\Program.cs",
+              "RelativeDocumentMoniker": "TheWatterProject\\Program.cs",
+              "ToolTip": "C:\\Users\\Alexander\\Desktop\\Program\\Repos\\fullStackPractice\\backend\\TheWatterProject\\TheWatterProject\\Program.cs",
+              "RelativeToolTip": "TheWatterProject\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T22:38:52.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Alexander\\Desktop\\Program\\Repos\\fullStackPractice\\backend\\TheWatterProject\\TheWatterProject\\appsettings.json",
+              "RelativeDocumentMoniker": "TheWatterProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\Alexander\\Desktop\\Program\\Repos\\fullStackPractice\\backend\\TheWatterProject\\TheWatterProject\\appsettings.json",
+              "RelativeToolTip": "TheWatterProject\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-07T22:36:49.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WaterProjectContext.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\Desktop\\Program\\Repos\\fullStackPractice\\backend\\TheWatterProject\\TheWatterProject\\Models\\WaterProjectContext.cs",
+              "RelativeDocumentMoniker": "TheWatterProject\\Models\\WaterProjectContext.cs",
+              "ToolTip": "C:\\Users\\Alexander\\Desktop\\Program\\Repos\\fullStackPractice\\backend\\TheWatterProject\\TheWatterProject\\Models\\WaterProjectContext.cs",
+              "RelativeToolTip": "TheWatterProject\\Models\\WaterProjectContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T22:32:39.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\Desktop\\Program\\Repos\\fullStackPractice\\backend\\TheWatterProject\\TheWatterProject\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "TheWatterProject\\Models\\Project.cs",
+              "ToolTip": "C:\\Users\\Alexander\\Desktop\\Program\\Repos\\fullStackPractice\\backend\\TheWatterProject\\TheWatterProject\\Models\\Project.cs",
+              "RelativeToolTip": "TheWatterProject\\Models\\Project.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T22:30:05.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\Desktop\\Program\\Repos\\fullStackPractice\\backend\\TheWatterProject\\TheWatterProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TheWatterProject\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Alexander\\Desktop\\Program\\Repos\\fullStackPractice\\backend\\TheWatterProject\\TheWatterProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TheWatterProject\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T22:18:30.034Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
